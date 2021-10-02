@@ -1,0 +1,47 @@
+.main{
+    flex-direction: column;
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    overflow-y: scroll;
+    height: 90%;
+}
+
+.box{
+    width: 85%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.box p{
+    font-size: ;
+}
+
+.box h1{
+
+}
+
+svg{
+
+}
+
+#sedans{
+    border-top-left-radius: 6.5px;
+    border-top-right-radius: 6.5px;
+    border-bottom-left-radius: 0px;
+}
+
+#suvs{
+
+}
+
+#luxury{
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 6.5px;
+    border-bottom-left-radius: 6.5px;
+}
+
+.btn{
+
+}
